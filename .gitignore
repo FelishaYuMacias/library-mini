@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+#Copy of instructions README
+README copy.md
